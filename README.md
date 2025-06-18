@@ -1,14 +1,17 @@
 # awesome-ethereum
+
 Awesome Ethereum & Dapps Resources
 ![Awesome Ethereum](https://drive.google.com/uc?export=download&id=1FtgCvjnQMoSl8LoQEdc3Q-5qGPaNhTJ- "Awesome Ethereum")
 
-### To create a better knowledge space we now accept donations of ETH & other cryptocurrencies! 
+### To create a better knowledge space we now accept donations of ETH & other cryptocurrencies!
+
 ENS: beka.eth \
 ETH 0x697b76602EADb510d2BFCDb29db0d2a517F00858 \
-USDT: TTPV8jGDcoQUA2QqyQXfk1aZoGAFLXouPu  (Network TRX - Tron TRC20) \
+USDT: TTPV8jGDcoQUA2QqyQXfk1aZoGAFLXouPu (Network TRX - Tron TRC20) \
 BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 
 ### ฿ Currency is a social contract
+
 It’s essential to keep in mind that all currency is a social contract. Whether it’s
 gold, silver, or U.S. dollars, we assign value to something and agree to honor
 that belief so we can trade it amongst ourselves. Crypto works the same way.
@@ -34,8 +37,6 @@ decided that it has value.
 - [Ethstats](https://ethstats.net/)
 - [Ethereum Price](http://ethereumprice.org/)
 
-
-
 #### Market Information
 
 - [Ethereum on Blockmodo](https://blockmodo.com/quotes/ETH)
@@ -52,8 +53,8 @@ decided that it has value.
 - [Ethereum Online Courses at Classpert](https://classpert.com/ethereum)
 - ["Developing Applications on Ethereum Blockchain" course](https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications)
 
-
 #### Tools
+
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/)
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
 - [Konkret Wallet: Browser Extension Wallet](https://codeberg.org/konkret/konkret-wallet)
@@ -66,6 +67,7 @@ decided that it has value.
 - [Address Checker: Identify malicious addresses and spam tokens](https://bac.nader.io)
 
 #### Developer Tools
+
 - [Remix: IDE for writing Solidity Smart Contracts](http://remix.ethereum.org/)
 - [Meteor-dapp-cosmo: Meteor dapp for building and vetting solidity contracts](https://github.com/SilentCicero/meteor-dapp-cosmo)
 - [Browser-Solidity : Browser based solidity contract compiler](https://github.com/chriseth/browser-solidity)
@@ -79,6 +81,7 @@ decided that it has value.
 - [Online Solidity ABI Encoder](https://neptunemutual.com/web3-tools/solidity-abi-encoder-online/)
 - [Ethereum Unit Converter](https://neptunemutual.com/web3-tools/ethereum-unit-converter/)
 - [UseSIWE: The easiest way to add Sign-in with Ethereum to your app.](https://github.com/random-bits-studio/use-siwe)
+- [Multicall SDK: Batch multiple calls into one via Multicall3 on 285 + chains](https://github.com/evmlord/multicall-sdk)
 - [Ethairbaloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
 - [DB3 Network:open-source decentralized firebase firestore alternative.](https://github.com/dbpunk-labs/db3)
 - [walletOS: An API for using blockchains](https://www.pinestreetlabs.com/walletos/)
@@ -86,10 +89,8 @@ decided that it has value.
 - [web3-ethereum-defi: Data research and trading library to work with DeFi for Python](https://web3-ethereum-defi.readthedocs.io/)
 - [Cannon: Like Terraform, Docker and NPM for Ethereum](https://usecannon.com)
 
-
-
-
 #### Where do I start?
+
 - [Download the wallet and build your own cryptocurrency](https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/)
 - [Using the Wallet part 2: build a Democratic Autonomous Organisation](https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/)
 - [Using the Wallet part 3: build your own transparent Central Bank](https://blog.ethereum.org/2015/12/07/ethereum-in-practice-part-3-how-to-build-your-own-transparent-bank-on-the-blockchain/)
@@ -101,6 +102,7 @@ decided that it has value.
 - [Storing Data on Ethereum Blockchain With Node.js](https://betterprogramming.pub/storing-data-on-ethereum-blockchain-with-node-js-643cb2961ebc)
 
 #### Blogs & Article threads
+
 - [Rise of the World Computer](http://www.svds.com/ethereum-the-rise-of-the-world-computer/#.Vs3MJboMMl0.facebook)
 - [Ethereum : Rise of the World Computer , HN thread](https://news.ycombinator.com/item?id=11181149)
 - [SkyNet is the future](http://theshapeofthings.org/2016/01/18/skynetisthefuture/)
@@ -111,6 +113,7 @@ decided that it has value.
 - [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters)
 
 #### Books
+
 - [Ethereum Development with Go](https://goethereumbook.org/)
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
@@ -119,6 +122,7 @@ decided that it has value.
 - [More books](https://www.useweb3.xyz/books)
 
 #### DAPPS
+
 - [Dapp Insight](https://dappinsight.com/)
 - [State of the Dapps](http://dapps.ethercasts.com/)
 - [ZeroNet Decentralized websites using Bitcoin crypto and the BitTorrent network](https://github.com/HelloZeroNet/ZeroNet)
@@ -177,8 +181,8 @@ decided that it has value.
 - [Settle : Decentralized Finance Operating System](http://settle.finance)
 - [Dapped : Dapps & Games Due Diligence & Reviews](http://dapped.io)
 
-
 #### Related Resources
+
 - [Awesome p2p](https://github.com/kgryte/awesome-peer-to-peer)
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 - [ConcourseQ : Open Community Sourced Blockchain & ICO Due Diligence Platform](https://concourseq.io/)
